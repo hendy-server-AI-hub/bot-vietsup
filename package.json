@@ -1,0 +1,21 @@
+{
+  "name": "bot-vietsup-node",
+  "version": "1.0.0",
+  "description": "Công cụ AI Vietsub và dịch video tự động bằng Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whisper",
+    "ai",
+    "vietsub",
+    "ffmpeg",
+    "translation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}

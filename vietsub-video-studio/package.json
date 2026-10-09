@@ -1,0 +1,11 @@
+{
+  "name": "vietsub-video-studio",
+  "version": "3.0.0",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend",
+    "worker",
+    "example_bot"
+  ]
+}
